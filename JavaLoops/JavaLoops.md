@@ -7,8 +7,9 @@ The easiest looping structure is `while()`.  It takes a conditional statement be
 while ( true ) {
   // do something
 }
----
 ```
+---
+
 ### While example
 ```Java
 int i = 0;
@@ -35,6 +36,7 @@ do {
   // do something
 } while (true);
 ```
+---
 ### Do...While() example
 
 ```Java
